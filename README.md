@@ -9,7 +9,7 @@ While the [EOEPCA ADES](https://eoepca.github.io/proc-ades/master/) building blo
 From provider perspective it is only necessary to 
 - bring a CWL file to describe the algorithm
 - define the resolution strategy via STAC API to get the products automatically staged-in for processing
-- come up with a pricing model (cost estimate) for the offer on EDC marketplace
+- come up with a [pricing model](estimate_costs.ipynb) for the offer on EDC marketplace
 
 Please consult the [EDC documentation](https://eurodatacube.com/documentation/offer_algorithms_for_on_demand_data_generation) for more information.
 
